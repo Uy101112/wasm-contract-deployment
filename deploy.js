@@ -31,7 +31,7 @@ try {
   
   
   // adding fire account for paying the gas fee
-  const PHRASE = 'negative cheap cherry uncover absurd angle swarm armor tuna lounge hurdle lawsuit';
+  const PHRASE = 'mean index best ridge convince brother coral bless blind wish onion miss';
   const seedUser = mnemonicToMiniSecret(PHRASE);
   const keyring = new Keyring({ type: "ed25519" });
   const userKeyring = keyring.addFromPair(naclKeypairFromSeed(seedUser));
